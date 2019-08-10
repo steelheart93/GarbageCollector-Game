@@ -21,7 +21,7 @@ Visita la biblioteca de referencias utilizadas en Mendeley, [Mendeley Library](h
 * Maria Amparo Murillo Jimenez, Asesora Comercial del Proyecto.
 * Julian Andres Castellanos Hernandez, Asesor de Ingeniería Industrial del Proyecto.
 * Alejandro, Integrante de Cubo R3.
-* Equipo Innóvate CHEC - CHEC, EPM, Parque Explora, Neurocity, Cámara de Comercio de Manizales y Tecnoparque SENA.
+* Equipo Innóvate CHEC - CHEC Grupo EPM, Fundación EPM, Parque Explora Medellín, Neurocity, Cámara de Comercio de Manizales por Caldas y Equipo Tecnoparque SENA nodo Manizales.
 
 #### Contacto
 Stiven Muñoz Murillo - Líder de Proyecto, [stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com)
