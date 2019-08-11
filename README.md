@@ -1,5 +1,5 @@
 # Conoce GarbageCollector Game
-**Visita la versión actual del Aplicativo,** [GarbageCollector Game(Próximamente)](https://github.com/steelheart93/GarbageCollector-Game)
+**Visita la versión actual del Aplicativo,** [GarbageCollector Game (Próximamente)](https://github.com/steelheart93/GarbageCollector-Game)
 
 ## Diagrama de Casos de Uso
 ![casos](chec.png)
@@ -10,10 +10,14 @@
 Visita la biblioteca de referencias utilizadas en Mendeley, [Mendeley Library](https://www.mendeley.com/library/community/grupo-11-8)
 
 ## Carpetas Compartidas del Grupo
-* [Proyecto de Logística - Carpeta Principal](https://drive.google.com/drive/u/0/folders/1yId2IfPIDdAhFavqeNVNsL0p5qPsZzdR)
-* [Proyecto de Logística - Planes individuales](https://drive.google.com/drive/u/0/folders/11MXSxojzKIcIO-_0bzkY-wmZLcPlCMS8)
+* [Grupo 11 - Investigación para Ingeniería](https://drive.google.com/drive/u/1/folders/1m0EG9M_oexe-XutzTsV5faYpL3UPuNXg)
+* [Talleres Investigación](https://drive.google.com/drive/u/1/folders/1b9rF30birvm4rA6tsZtkW5r8BbzoOmZV)
 
-* * *
+## Presentaciones Formación Inicial Innóvate CHEC
+* [Design Thinking](/Formación Inicial/Design Thinking.pdf)
+* [Lean Startup](/Formación Inicial/Lean Startup.pdf)
+* [Prototipado](/Formación Inicial/Prototipado.pdf)
+* [Vigilancia Estratégica](/Formación Inicial/Vigilancia Estratégica.pdf)
 
 ## Agradecimientos 
 * Juan Sebastian Agudelo Martinez, Miembro del Grupo de Investigación  de la U. de Caldas.
