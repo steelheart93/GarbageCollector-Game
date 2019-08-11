@@ -20,12 +20,12 @@ Visita la biblioteca de referencias utilizadas en Mendeley, [Mendeley Library](h
 * [Vigilancia Estratégica](/Formación Inicial/Vigilancia Estratégica.pdf)
 
 ## Agradecimientos 
-* Juan Sebastian Agudelo Martinez, Miembro del Grupo de Investigación  de la U. de Caldas.
-* Andres Felipe Gomez Pulgarin, Miembro del Grupo de Investigación  de la U. de Caldas.
-* Maria Amparo Murillo Jimenez, Asesora Comercial del Proyecto.
-* Julian Andres Castellanos Hernandez, Asesor de Ingeniería Industrial del Proyecto.
-* Alejandro, Integrante de Cubo R3.
-* Equipo Innóvate CHEC - CHEC Grupo EPM, Fundación EPM, Parque Explora Medellín, Neurocity, Cámara de Comercio de Manizales por Caldas y Equipo Tecnoparque SENA nodo Manizales.
+* **Juan Sebastian Agudelo Martinez** - Miembro del Grupo de Investigación  de la U. de Caldas.
+* **Andres Felipe Gomez Pulgarin** - Miembro del Grupo de Investigación  de la U. de Caldas.
+* **Maria Amparo Murillo Jimenez** - Asesora Comercial del Proyecto.
+* **Julian Andres Castellanos Hernandez** - Asesor de Ingeniería Industrial del Proyecto.
+* **Alejandro** - Integrante de Cubo R3.
+* **Equipo Innóvate CHEC** - CHEC Grupo EPM, Fundación EPM, Parque Explora Medellín, Neurocity, Cámara de Comercio de Manizales por Caldas y Equipo Tecnoparque SENA nodo Manizales.
 
 #### Contacto
-Stiven Muñoz Murillo - Líder de Proyecto, [stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com)
+**Stiven Muñoz Murillo** - Líder de Proyecto, [stivenmm1993@gmail.com](mailto:stivenmm1993@gmail.com)
