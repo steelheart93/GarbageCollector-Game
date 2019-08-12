@@ -2,7 +2,7 @@
 **Visita la versión actual del Aplicativo,** [GarbageCollector Game (Próximamente)](https://github.com/steelheart93/GarbageCollector-Game)
 
 ## Diagrama de Casos de Uso
-![casos](chec.png)
+![usecases](usecases.png)
 
 * * *
 
