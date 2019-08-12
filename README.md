@@ -1,11 +1,11 @@
 # Conoce GarbageCollector Game
 **Visita la versión actual del Aplicativo,** [GarbageCollector Game (Próximamente)](https://github.com/steelheart93/GarbageCollector-Game)
 
-## Diagrama de Casos de Uso
-![usecases](usecases.png)
-
 ## GC Coin, Boceto
 ![gc](gc.png)
+
+## Diagrama de Casos de Uso
+![usecases](usecases.png)
 
 * * *
 
