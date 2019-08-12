@@ -4,6 +4,9 @@
 ## Diagrama de Casos de Uso
 ![usecases](usecases.png)
 
+## GC Coin, Boceto
+![gc](gc.png)
+
 * * *
 
 ## GarbageCollector Game como proyecto de Investigación
