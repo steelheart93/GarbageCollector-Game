@@ -7,6 +7,15 @@
 ## Diagrama de Casos de Uso
 ![usecases](usecases.png)
 
+## Mockups
+![Cuenta](/Mockups/Cuenta.png)
+![Canjear](/Mockups/Canjear.png)
+![Reciclar](/Mockups/Reciclar.png)
+![Estadísticas](/Mockups/Estadísticas.png)
+![Residuos](/Mockups/Residuos.png)
+![Programas](/Mockups/Programas.png)
+![Acerca de](/Mockups/Acerca de.png)
+
 * * *
 
 ## GarbageCollector Game como proyecto de Investigación
