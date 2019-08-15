@@ -14,7 +14,7 @@
 ![Estadísticas](/Mockups/Estadísticas.png)
 ![Residuos](/Mockups/Residuos.png)
 ![Programas](/Mockups/Programas.png)
-![Acerca de](/Mockups/Acerca de.png)
+![Acerca de](/Mockups/Acerca_de.png)
 
 * * *
 
