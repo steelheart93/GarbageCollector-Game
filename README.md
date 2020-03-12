@@ -1,5 +1,5 @@
 # Conoce GarbageCollector Game
-* Presentación del PITCH, [Repositorio en GitHub](https://steelheart93.github.io/PITCH/index.html)
+* Presentación del PITCH, [Página PITCH](https://steelheart93.github.io/PITCH/index.html)
 * PITCH de la Iniciativa, [YouTube (Próximamente)](https://www.youtube.com/channel/UCa2PpMgD0W-BFFgfHucV-oA?view_as=subscriber)
 * **Visita la versión actual del Aplicativo,** [GarbageCollector Game (Próximamente)](https://github.com/steelheart93/GarbageCollector-Game)
 
